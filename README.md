@@ -68,9 +68,9 @@ A fully functional mini clicker game "TapMe" as a Telegram Mini app/Web app.
 
 
 # How will users(reviewers) use this game?
-. Users open their telegram mobile app.
-. They go to the "GameTabBot" bot
-They click  /start command
-Mini app (game) should launch (in full screen mode)
-Users should be able to Tap the main Tap button (use any fancy button/image you like)
-Users can see their coins updating in real-time with each Tap (these coin balance is persisted in Supabase database so that users can see their updated balance every time they open the TapMe game)
+* Users open their telegram mobile app.
+* They go to the "GameTabBot" bot
+* They click  /start command
+* Mini app (game) should launch (in full screen mode)
+* Users should be able to Tap the main Tap button (use any fancy button/image you like)
+* Users can see their coins updating in real-time with each Tap (these coin balance is persisted in Supabase database so that users can see their updated balance every time they open the TapMe game)
